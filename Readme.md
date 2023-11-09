@@ -1,0 +1,1 @@
+This project stores examples of my autotesting codes
